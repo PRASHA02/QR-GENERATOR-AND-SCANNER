@@ -1,6 +1,6 @@
 # individual
 
-A new Flutter project.
+A new Flutter project based on Qr code generator and scanner.
 
 ## Getting Started
 
